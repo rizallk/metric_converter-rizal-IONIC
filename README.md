@@ -9,5 +9,7 @@ NIM : 210211060138
 Deskripsi Aplikasi : </br>
 Metric converter adalah aplikasi untuk mengubah nilai sebuah besaran tertentu dari suatu unit satuan ke satuan lain. Contohnya untuk besaran panjang, aplikasi dapat mengkonversi dari unit satuan meter ke sentimeter.
 
-Demo Aplikasi :
-(GIF)
+Link APK : <a href="https://drive.google.com/file/d/1onEkVdwFFkMHmmn5WRAeXC009WlfjLgv/view?usp=sharing">https://drive.google.com/file/d/1onEkVdwFFkMHmmn5WRAeXC009WlfjLgv/view?usp=sharing</a>
+
+Demo Aplikasi (GIF) : </br>
+![mobile (1)](https://github.com/rizallk/metric_converter-rizal-IONIC/assets/46246652/39a066bc-9a8a-436b-9482-ac5514eafa00)
